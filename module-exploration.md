@@ -46,10 +46,10 @@ Translates database data into a dictionary, which DRF then renders into a standa
 
 ## 8. Views vs. viewsets
 
-| Type    | Example class | File path |
-| ------- | ------------- | --------- |
-| View    | login_user    |           |
-| ViewSet | CohortViewSet |           |
+| Type    | Example class   | File path                              |
+| ------- | --------------- | -------------------------------------- |
+| Views   | login_user      | learn-ops-api/LearningAPI/views        |
+| ViewSet | Student_view.py | learn-ops-api/LearningAPI/views/oauth2 |
 
 ## 9. Serializers paired with their models
 

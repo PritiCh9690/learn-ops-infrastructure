@@ -31,3 +31,7 @@ open the models folder inside LearningAPI. What is a Django model? Pick one mode
 find one example of a plain view and one example of a viewset in this project
 
 Django uses a Model-Template-View pattern. This project has no HTML templates. What takes the template's role here, and why does that make sense for a REST API?
+
+git add module-exploration-ai.md module-exploration-ai-prompts.md
+git commit -m "add ai-assisted module exploration"
+git push
